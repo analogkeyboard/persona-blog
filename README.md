@@ -1,6 +1,5 @@
-# hello-world
-Hello World repository for Git tutorial
-This is an example repository for the Git tutoial on https://www.w3schools.com
+# Este es mi primer readme
 
-This repository is built step by step in the tutorial.
+## estos son cambios menores
 
+### para practicar con git
